@@ -13,7 +13,7 @@ A desktop AI chatbot built using Python and Tkinter. Features include:
 
 Here’s how the chatbot looks:
 
-![Chatbot UI](chatbotui.png)
+ 
 ![Chatbot UI](chatbot.png)
 
 
