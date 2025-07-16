@@ -15,6 +15,7 @@ Here’s how the chatbot looks:
 
  
 ![Chatbot UI](chatbot.png)
+![Chatbot UI](chatbotgui.png)
 
 
 ## How to Run
